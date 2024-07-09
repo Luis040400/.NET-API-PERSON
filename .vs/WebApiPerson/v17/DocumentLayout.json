@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\models\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\models\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Migrations\\20240709020452_Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApiPerson\\Migrations\\20240709020452_Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\migrations\\20240622034501_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\migrations\\20240622034501_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|c:\\users\\chele\\source\\repos\\webapiperson\\webapiperson\\webapiperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B1BE054-239C-41B2-8702-6E6DA7C1F5A1}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\webapiperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Models\\DTO\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Models\\DTO\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Models\\DTO\\CreateOrderDto.cs",
+              "RelativeToolTip": "WebApiPerson\\Models\\DTO\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:46:19.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApiPerson\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:05:18.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240709020452_Address.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Migrations\\20240709020452_Address.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Migrations\\20240709020452_Address.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Migrations\\20240709020452_Address.cs",
+              "RelativeToolTip": "WebApiPerson\\Migrations\\20240709020452_Address.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:04:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Models\\Order.cs",
+              "RelativeToolTip": "WebApiPerson\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:30:50.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Models\\Person.cs",
+              "RelativeToolTip": "WebApiPerson\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:56:20.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240622034501_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Migrations\\20240622034501_Initial.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Migrations\\20240622034501_Initial.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Migrations\\20240622034501_Initial.cs",
+              "RelativeToolTip": "WebApiPerson\\Migrations\\20240622034501_Initial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:56:09.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Program.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Program.cs",
+              "RelativeToolTip": "WebApiPerson\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:57:49.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "WebApiPerson\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T03:56:46.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiPerson\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T03:51:40.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiPerson\\appsettings.json",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\appsettings.json",
+              "RelativeToolTip": "WebApiPerson\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T03:50:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApiPerson.csproj",
+              "DocumentMoniker": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\WebApiPerson.csproj",
+              "RelativeDocumentMoniker": "WebApiPerson\\WebApiPerson.csproj",
+              "ToolTip": "C:\\Users\\chele\\source\\repos\\WebApiPerson\\WebApiPerson\\WebApiPerson.csproj",
+              "RelativeToolTip": "WebApiPerson\\WebApiPerson.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T03:09:13.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
